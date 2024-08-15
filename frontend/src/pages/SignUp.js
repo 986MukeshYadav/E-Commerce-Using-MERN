@@ -28,7 +28,7 @@ const SignUp = () => {
               [name] : value
           }
       })
-  }
+  }                                  
 
   const handleUploadPic = async(e) =>{
     const file = e.target.files[0]
