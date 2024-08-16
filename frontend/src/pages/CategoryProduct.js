@@ -16,7 +16,7 @@ const CategoryProduct = () => {
     urlCategoryListinArray.forEach(el =>{
       urlCategoryListObject[el] = true
     })
-
+          
     const [selectCategory,setSelectCategory] = useState(urlCategoryListObject)
     const [filterCategoryList,setFilterCategoryList] = useState([])
 
