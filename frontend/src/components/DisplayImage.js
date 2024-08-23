@@ -24,5 +24,4 @@ const DisplayImage = ({
     </div>
   )
 }
-
 export default DisplayImage
