@@ -18,7 +18,7 @@ const SearchProduct = () => {
 
         setData(dataResponse.data)
     }
-
+        
     useEffect(()=>{
         fetchProduct()
     },[query])
