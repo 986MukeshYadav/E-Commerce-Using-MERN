@@ -5,5 +5,4 @@ const ForgotPassowrd = () => {
     <div>ForgotPassowrd</div>
   )
 }
-
 export default ForgotPassowrd
