@@ -251,5 +251,4 @@ const AdminEditProduct = ({
  </div>
   )
 }
-
 export default AdminEditProduct
