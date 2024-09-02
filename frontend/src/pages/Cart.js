@@ -21,7 +21,7 @@ const Cart = () => {
                 "content-type" : 'application/json'
             },
         })      
-       
+              
 
         const responseData = await response.json()
 
