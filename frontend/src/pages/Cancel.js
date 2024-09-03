@@ -8,7 +8,7 @@ const Cancel = () => {
       <img
         src={CANCELIMAGE}
         width={150}
-        height={150}
+        height={150}     
         className='mix-blend-multiply'
       />
       <p className='text-red-600 font-bold text-xl'>Payment Cancel</p>
