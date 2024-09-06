@@ -62,8 +62,4 @@ router.get("/order-list",authToken,orderController)
 router.get("/all-order",authToken,allOrderController)
 
 
-
-
-
-
 module.exports = router
