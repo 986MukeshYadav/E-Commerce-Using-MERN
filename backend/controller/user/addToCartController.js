@@ -43,6 +43,4 @@ const addToCartController = async(req,res)=>{
         })
     }
 }
-
-
 module.exports = addToCartController
